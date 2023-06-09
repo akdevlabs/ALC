@@ -26,13 +26,13 @@ a:link {
     color: #1d336fb4;
 } 
 a:visited {
-    color: #4fdbe5; 
-  }
-a:hover {
     color: #E54FCF;
   }
+a:hover {
+    color: #08D8DA;
+  }
 a:active {
-    color:#1d336fb4;
+    color:#ffffffb4;
   }
 .register-btn{
   margin-top: 20px;
@@ -136,6 +136,9 @@ a:active {
   margin: 100px 0px 0px  150px;
   transform: rotate(5deg);
   border-radius: 50px;
+}
+.img-colection a{
+ color: #ffff;
 }
 .girl-on-phone{
   width:520px;
