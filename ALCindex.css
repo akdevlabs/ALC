@@ -26,14 +26,12 @@ a:link {
     color: #1d336fb4;
 } 
 a:visited {
-    color: #E54FCF;
+    color:#1d336fb4;
   }
 a:hover {
     color: #08D8DA;
   }
-a:active {
-    color:#ffffffb4;
-  }
+
 .register-btn{
   margin-top: 20px;
   background-color: #E54FCF;
